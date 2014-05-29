@@ -1,0 +1,22 @@
+{
+  "name": "twenty_nine,
+  "version": "0.0.0",
+  "description": "This example app is so cool.",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/rmi111/twenty_nine"
+  },
+  "keywords": [
+    "example",
+    "heroku"
+  ],
+  "author": "romi",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/rmi111/twenty_nine/bug"
+  }
+}
